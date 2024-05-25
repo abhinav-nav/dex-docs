@@ -1,7 +1,7 @@
 
 # icp_dex: A Decentralized Exchange on the Internet Computer 
 
-icp_dex is a decentralized exchange platform built on the Internet Computer Protocol (ICP). It enables secure and efficient trading of tokens within the ICP ecosystem, directly from your wallet.
+icp_dex is a decentralized exchange platform built on the Internet Computer Protocol (ICP). It enables secure and efficient trading of tokens, directly from your wallet.
 
 ## Table of Contents
 
