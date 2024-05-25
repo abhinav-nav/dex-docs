@@ -16,7 +16,7 @@ icp_dex is a decentralized exchange platform built on the Internet Computer Prot
 ## Features
 
 * **Decentralized Trading:** Trade directly from your wallet, eliminating intermediaries.
-* **ICP Token Support:** Seamlessly trade a variety of ICP tokens.
+* **Token Support:** Seamlessly trade a variety of tokens.
 * **Fast and Secure:** Leverage the speed and security of the Internet Computer.
 * **User-Friendly Interface:** An intuitive design for easy navigation and trading.
 
